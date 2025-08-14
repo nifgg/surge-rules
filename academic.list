@@ -18,3 +18,8 @@ DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,arxiv.org
 DOMAIN-KEYWORD,ieee
+DOMAIN-KEYWORD,springer
+DOMAIN-KEYWORD,sciencedirect
+DOMAIN-KEYWORD,wiley
+DOMAIN-KEYWORD,webofscience
+DOMAIN-KEYWORD,elsevier
