@@ -1,7 +1,20 @@
+# NAME: Academic
+# AUTHOR: nfggg
+# UPDATED: 2025-08-14
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 8
+# IP-ASN: 0
+# IP-CIDR: 0
+# IP-CIDR6: 0
+# PROCESS-NAME: 0
+# USER-AGENT: 0
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,iop.org
+DOMAIN-SUFFIX,iopscience.com
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,springernature.com
 DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,sciencedirect.com
-...
+DOMAIN-SUFFIX,arxiv.org
+DOMAIN-KEYWORD,ieee
