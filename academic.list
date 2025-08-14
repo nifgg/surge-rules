@@ -2,8 +2,8 @@
 # AUTHOR: nifgg
 # UPDATED: 2025-08-14
 # DOMAIN: 0
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 8
+# DOMAIN-KEYWORD: 6
+# DOMAIN-SUFFIX: 9
 # IP-ASN: 0
 # IP-CIDR: 0
 # IP-CIDR6: 0
@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,springernature.com
 DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,arxiv.org
+DOMAIN-SUFFIX,acs.org
 DOMAIN-KEYWORD,ieee
 DOMAIN-KEYWORD,springer
 DOMAIN-KEYWORD,sciencedirect
